@@ -1,11 +1,11 @@
 # Copyright 2025 Pragmatic Ingeniería S.A.S. Soluciones integrales Tic para las Pyme.
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
-    "name": "Rest Api Pragmatic",
+    "name": "Api Rest Pragmatic",
     "summary": """Complete REST API/OpenAPI/Swagger integration for Odoo 18 with advanced ORM methods""",
     
     "description": """
-        Rest Api Pragmatic Module
+        Api Rest Pragmatic Module
         ======================
 
         This module provides a complete REST API solution for Odoo 18 with:
