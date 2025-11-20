@@ -65,7 +65,7 @@
     ],
     "assets": {
         "web.assets_backend": [
-            "pragmatic_engineering_api/static/src/css/api_style.css",
+            "api_rest_pragmatic/static/src/css/api_style.css",
         ],
     },
     "images": [
